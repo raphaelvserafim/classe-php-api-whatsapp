@@ -13,7 +13,7 @@
         "name": "Raphael Serafim",
         "email": "raphaelvserafim@gmail.com"
     }],
-     "minimum-stability": "dev-master",
+     "minimum-stability": "beta",
     "require": {
         "pear/http_request2": "^2.5"
     }
