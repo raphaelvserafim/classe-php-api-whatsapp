@@ -14,5 +14,7 @@
         "email": "raphaelvserafim@gmail.com"
     }],
      "minimum-stability": "dev",
-    "require": {}
+    "require": {
+          "pear/http_request2": "^2.5"
+    }
 }
