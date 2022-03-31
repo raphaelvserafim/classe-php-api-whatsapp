@@ -283,6 +283,24 @@ echo $whatsapp->mudarImagemGrupo(array("groupId" => "120363042927751450", "url" 
     "type": "group-descript"
 }
 ```
+ ######  Contatos  
+```php
+echo $whatsapp->obterContatos();
+```
+ ######  Retorno 
+```json 
+ {
+    "container": "api-3",
+    "session": "3",
+    "device": "556696883327",
+    "status": 200,
+    "type": "get-all-contacts",
+    "qt": 472,
+    "contacts": [
+        { "id": "5566996852025", "name": "Raphael Serafim" }
+    ]
+}
+```
 
 
 
