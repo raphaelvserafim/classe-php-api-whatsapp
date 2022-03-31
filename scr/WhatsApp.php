@@ -105,7 +105,7 @@ class WhatsApp
         );
 
 
-        echo  $this->requestPost();
+        return $this->requestPost();
     }
 
 
