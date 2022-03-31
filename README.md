@@ -12,7 +12,7 @@
 ## Instalando via composer 
 
 ```
-composer require cachesistemas/whatsapp
+composer require cachesistemas/classeapiwhatsapp
 
 ```
 
