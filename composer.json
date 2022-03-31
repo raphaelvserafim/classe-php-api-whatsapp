@@ -1,6 +1,7 @@
 {
     "name": "cachesistemas/whatsapp",
     "description": "Classe API WhatsApp",
+    "keywords": ["whatsapp-api", "whatsapp-bot", "whatsapp", "PHP"],
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -14,5 +15,6 @@
     }],
     "require": {
         "pear/http_request2": "^2.5"
-    }
+    },
+        "minimum-stability": "dev"
 }
