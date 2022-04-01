@@ -16,5 +16,7 @@
 
     "require": {
           "pear/http_request2": "^2.5"
-    }
+    },
+     "minimum-stability": "dev",
+     "prefer-stable": true
 }
