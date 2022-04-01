@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "API\\": "scr/"
+            "API\\Whatsapp\\": "scr/"
         }
     },
     "authors": [{
@@ -16,6 +16,5 @@
 
     "require": {
           "pear/http_request2": "^2.5"
-    },
-     "minimum-stability": "dev"
+    }
 }
