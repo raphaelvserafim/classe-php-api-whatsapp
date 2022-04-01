@@ -1,5 +1,5 @@
 {
-    "name": "cachesistemas/classeapiwhatsapp",
+    "name": "cachesistemas/whatsapp",
     "description": "Classe API WhatsApp",
     "keywords": ["whatsapp-api", "whatsapp-bot", "whatsapp", "PHP"],
     "type": "project",
@@ -13,8 +13,9 @@
         "name": "Raphael Serafim",
         "email": "raphaelvserafim@gmail.com"
     }],
-     "minimum-stability": "dev",
+
     "require": {
           "pear/http_request2": "^2.5"
-    }
+    },
+     "minimum-stability": "dev"
 }
